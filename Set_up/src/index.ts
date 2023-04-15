@@ -188,4 +188,6 @@ class Youtube implements TakePhoto,Story{
 }
 
 
+///// what is the use of abstract classes if the interfaces are available
+
 

@@ -20,3 +20,4 @@ class Youtube {
         console.log("Yesssssss!");
     }
 }
+///// what is the use of abstract classes if the interfaces are available

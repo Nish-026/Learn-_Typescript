@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server":"nodemon dist/index.js"
+    "server":"nodemon dist/myGenerics.js"
   },
   "keywords": [],
   "author": "",
