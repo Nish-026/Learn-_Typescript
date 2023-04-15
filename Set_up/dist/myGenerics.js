@@ -20,3 +20,17 @@ const getSearchProducts_witharrowfunction = (products) => {
     const myIndex = 3;
     return products[myIndex];
 };
+function anotherFunction(valOne, valTwo) {
+    return {
+        valOne,
+        valTwo
+    };
+}
+class sellable {
+    constructor() {
+        this.cart = [];
+    }
+    addToCart(product) {
+        this.cart.push(product);
+    }
+}
